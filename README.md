@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi! My name is Maximilian Wisnefski (I go by Max)
 
-<!--
-**MaxWisnefski/MaxWisnefski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a senior at Denison University. I plan to graduate with a major in Data Analytics and a double minor in Computer Science and Philosophy. 
 
-Here are some ideas to get you started:
+During summer 2023, I collaborated with Denison faculty member Dr. Sarah R. Supp on an ongoing NSF funded research project. I used crowdsourced bird occurrence data to study the migration patterns of avian seed dispersers. Specifically, I was working with 15 years of data concerning 15 bird species that might be contributing to the spread of the eastern redcedar (<em>juniperus virginiana</em>).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my interests include:
+- :performing_arts: Theatre
+- :musical_score: Music
+- :open_book: sci-fi / fantasy novels
+
+
+my LinkedIn profile: www.linkedin.com/in/maximilian-wisnefski-73619324a 
+
